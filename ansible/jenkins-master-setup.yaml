@@ -25,4 +25,4 @@
   - name: enable jenkins to start at boot time 
     service: 
       name: jenkins
-      enable: yes
+      enabled: yes
